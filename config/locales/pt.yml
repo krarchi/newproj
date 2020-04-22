@@ -1,0 +1,8 @@
+pt:
+  hello: "Translated Hello"
+  test: "It is a gibberish language"
+  text: "Click to go on google"
+  url: "http://www.google.com"
+  nt:
+    text: "Back"
+    url: "http://127.0.0.1:3000"
